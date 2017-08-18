@@ -1,9 +1,7 @@
 
-**关注我**
+**原始出处**
 
-githup:[https://github.com/codbking](https://github.com/codbking)
-
-csdn: [http://my.csdn.net/codbking](http://my.csdn.net/codbking)
+githup:[https://github.com/codbking/CalendarExaple](https://github.com/codbking/CalendarExaple)
 
 ****
 # CalendarExaple
