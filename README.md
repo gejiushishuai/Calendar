@@ -1,7 +1,7 @@
 
 **原始出处**
 
-githup:[https://github.com/codbking/CalendarExaple](https://github.com/codbking/CalendarExaple)
+github:  [https://github.com/codbking/CalendarExaple](https://github.com/codbking/CalendarExaple)
 
 ****
 # CalendarExaple
